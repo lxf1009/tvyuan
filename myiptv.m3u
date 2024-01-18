@@ -38,11 +38,11 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001328/index.m3
 
 
 #卫视
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1 tvg-id="C01" tvg-name="东方卫视" tvg-logo="" group-title="卫视",东方卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-#EXTINF:-1 ,湖南卫视
+#EXTINF:-1 tvg-id="C02" tvg-name="湖南卫视" tvg-logo="" group-title="卫视",湖南卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,江苏卫视
+#EXTINF:-1 tvg-id="C03" tvg-name="江苏卫视" tvg-logo="" group-title="卫视",江苏卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,浙江卫视
+#EXTINF:-1 tvg-id="C04" tvg-name="浙江卫视" tvg-logo="" group-title="卫视",浙江卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226339/index.m3u8
