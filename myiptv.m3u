@@ -1,4 +1,6 @@
 #EXTM3U
+
+#常看
 #EXTINF:-1 ,五星体育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 #EXTINF:-1 ,辽宁都市
@@ -9,6 +11,14 @@ http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw336955688_-567193112/
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 #EXTINF:-1 ,风云足球
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+#EXTINF:-1 ,凤凰中文
+https://0472.org/hls/youzaiSB/fhzw.m3u8
+#EXTINF:-1 ,凤凰资讯
+https://0472.org/hls/youzaiSB/fhzx.m3u8
+#EXTINF:-1 ,凤凰香港
+https://0472.org/hls/youzaiSB/fhhk.m3u8
+
+#央视
 #EXTINF:-1 ,CCTV1
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,CCTV2
@@ -25,6 +35,9 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001008/index.m3
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 #EXTINF:-1 ,CCTV13
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+
+#卫视
 #EXTINF:-1 ,东方卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 ,湖南卫视
@@ -33,9 +46,3 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,浙江卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226339/index.m3u8
-#EXTINF:-1 ,凤凰中文
-https://0472.org/hls/youzaiSB/fhzw.m3u8
-#EXTINF:-1 ,凤凰资讯
-https://0472.org/hls/youzaiSB/fhzx.m3u8
-#EXTINF:-1 ,凤凰香港
-https://0472.org/hls/youzaiSB/fhhk.m3u8
