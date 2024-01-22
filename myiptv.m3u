@@ -9,6 +9,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw336955688_-567193112/
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
 #EXTINF:-1 group-title="综合",精品体育
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
+#EXTINF:-1 group-title="综合",超级体育
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 group-title="综合",风云足球
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 group-title="综合",凤凰中文
